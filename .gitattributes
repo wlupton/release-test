@@ -1,0 +1,5 @@
+*.c		export-ignore
+*.py		export-ignore
+makefile	export-ignore
+ignore/		export-ignore
+.gitattributes	export-ignore
